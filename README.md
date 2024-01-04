@@ -3,11 +3,9 @@
 
 
 <div>
- <img height=180 align="center"  src="https://github-readme-stats.vercel.app/api?username=Depaula-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height=180 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Depaula-Dev&layout=compact&langs_count=16&theme=tokyonight"/>
-  
+<img height=180 align="center"  src="https://github-readme-stats.vercel.app/api?username=Depaula-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height=180 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Depaula-Dev&layout=pie&langs_count=16&theme=tokyonight"/>
 </div>
-
 
 <br>
 
