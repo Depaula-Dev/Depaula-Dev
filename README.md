@@ -1,5 +1,7 @@
 <h2 align="center">Hi 👋🏼, I'm Roseli de Paula Developer</h2>
 <h3 align="center"> 👩🏻‍🎓 I'm studying Systems Analysis and Development at Uninter</h3>
+<h4 align="center">Code and Coffee: The perfect combination to start the day. If I'm not behind the keyboard, you'll find me in search of the best coffee ☕ in town.</h4>
+<h4 align="center">💚 I am a vegetarian Developer 💚</h4>
 
 
 <div>
