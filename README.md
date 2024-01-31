@@ -1,5 +1,6 @@
 <h2 align="center">Hi 👋🏼, I'm Roseli de Paula Developer</h2>
 <h3 align="center"> 👩🏻‍🎓 I'm studying Systems Analysis and Development at Uninter</h3>
+<h4 align="center">Currently, I'm focused on enhancing my knowledge, seeking opportunities where I can apply and refine my practical skills while collaborating with more experienced professionals.</h4>
 <h4 align="center">Code and Coffee ☕: The perfect combination to start the day</h4>
 
 <div>
