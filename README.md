@@ -5,7 +5,7 @@
 
 <br>
 
-<h3 align="center">Oi 👋🏼, eu sou a Roseli de Paula</h3>
+<h3 align="center">Oi 👋🏼, eu sou Roseli de Paula</h3>
 <h4 align="center"> 👩🏻‍🎓 Estou estudando Análise e Desenvolvimento de Sistemas na Uninter</h4>
 <h5 align="center">Atualmente, estou focado em aprimorar meu conhecimento, buscando oportunidades onde posso aplicar e refinar minhas habilidades práticas enquanto colaboro com profissionais mais experientes.</h5>
 <h6 align="center">Código e Café ☕: A combinação perfeita para começar o dia</h6>
