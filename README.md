@@ -10,6 +10,8 @@
 <h5 align="center">Atualmente, estou focado em aprimorar meu conhecimento, buscando oportunidades onde posso aplicar e refinar minhas habilidades práticas enquanto colaboro com profissionais mais experientes.</h5>
 <h6 align="center">Código e Café ☕: A combinação perfeita para começar o dia</h6>
 
+<br>
+
 <div>
 <img height=180 align="center"  src="https://github-readme-stats.vercel.app/api?username=Depaula-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height=180 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Depaula-Dev&layout=pie&langs_count=16&theme=tokyonight"/>
