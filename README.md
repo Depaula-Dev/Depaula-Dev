@@ -1,7 +1,14 @@
-<h2 align="center">Hi 👋🏼, I'm Roseli de Paula Developer</h2>
-<h3 align="center"> 👩🏻‍🎓 I'm studying Systems Analysis and Development at Uninter</h3>
-<h4 align="center">Currently, I'm focused on enhancing my knowledge, seeking opportunities where I can apply and refine my practical skills while collaborating with more experienced professionals.</h4>
-<h4 align="center">Code and Coffee ☕: The perfect combination to start the day</h4>
+<h3 align="center">Hi 👋🏼, I'm Roseli de Paula</h3>
+<h4 align="center"> 👩🏻‍🎓 I'm studying Systems Analysis and Development at Uninter</h4>
+<h5 align="center">Currently, I'm focused on enhancing my knowledge, seeking opportunities where I can apply and refine my practical skills while collaborating with more experienced professionals.</h5>
+<h6 align="center">Code and Coffee ☕: The perfect combination to start the day</h6>
+
+<br>
+
+<h3 align="center">Oi 👋🏼, eu sou a Roseli de Paula</h3>
+<h4 align="center"> 👩🏻‍🎓 Estou estudando Análise e Desenvolvimento de Sistemas na Uninter</h4>
+<h5 align="center">Atualmente, estou focado em aprimorar meu conhecimento, buscando oportunidades onde posso aplicar e refinar minhas habilidades práticas enquanto colaboro com profissionais mais experientes.</h5>
+<h6 align="center">Código e Café ☕: A combinação perfeita para começar o dia</h6>
 
 <div>
 <img height=180 align="center"  src="https://github-readme-stats.vercel.app/api?username=Depaula-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
