@@ -1,14 +1,7 @@
-<h3 align="center">Hi 👋🏼, I'm Roseli de Paula</h3>
-<h4 align="center"> 👩🏻‍🎓 I'm studying Systems Analysis and Development at Uninter</h4>
-<h6 align="center"> 👩🏻‍🎓 Estou estudando Análise e Desenvolvimento de Sistemas na Uninter</h6>
-<h5 align="center">Currently, I'm focused on enhancing my knowledge, seeking opportunities where I can apply and refine my practical skills while collaborating with more experienced professionals.</h5>
-<h6 align="center">Atualmente, estou focado em aprimorar meu conhecimento, buscando oportunidades onde posso aplicar e refinar minhas habilidades práticas enquanto colaboro com profissionais mais experientes.</h6>
+<h2 align="center">Hi THERE👋🏼</h2>
+<h5 align="justfy">I'm Roseli de Paula, Systems Analysis and Development student at Uninter. Currently, I'm focused on enhancing my knowledge, seeking opportunities where I can apply and refine my practical skills while collaborating with more experienced professionals</h5>
+<h6 align="justify">Eu sou a Roseli de Paula, estudante de Análise e Desenvolvimento de Sistemas na Uninter. Atualmente, estou focado em aprimorar meu conhecimento, buscando oportunidades onde posso aplicar e refinar minhas habilidades práticas enquanto colaboro com profissionais mais experientes.</h6>
 <h5 align="center">Code and Coffee ☕: The perfect combination to start the day</h5
-<h6 align="center">Código e Café ☕: A combinação perfeita para começar o dia</h6>
-
-
-
-
 
 <br>
 
