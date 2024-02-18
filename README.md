@@ -1,7 +1,7 @@
 <h2 align="center">Hi THERE👋🏼</h2>
-<h5 align="justfy">I'm Roseli de Paula, Systems Analysis and Development student at Uninter. Currently, I'm focused on enhancing my knowledge, seeking opportunities where I can apply and refine my practical skills while collaborating with more experienced professionals</h5>
+<h4 align="justfy">I'm Roseli de Paula, Systems Analysis and Development student at Uninter. Currently, I'm focused on enhancing my knowledge, seeking opportunities where I can apply and refine my practical skills while collaborating with more experienced professionals</h4>
 <h6 align="justify">Eu sou a Roseli de Paula, estudante de Análise e Desenvolvimento de Sistemas na Uninter. Atualmente, estou focado em aprimorar meu conhecimento, buscando oportunidades onde posso aplicar e refinar minhas habilidades práticas enquanto colaboro com profissionais mais experientes.</h6>
-<h5 align="center">Code and Coffee ☕: The perfect combination to start the day</h5
+<h4 align="center">Code and Coffee ☕: The perfect combination to start the day</h4>
 
 <br>
 
@@ -25,7 +25,7 @@
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.linkedin.com/in/roseli-de-paula" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/roseli-de-paula" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 </div>
 
